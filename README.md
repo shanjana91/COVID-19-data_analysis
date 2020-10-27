@@ -5,9 +5,6 @@
 - Data analysis between covid-19 global dataset and world happiness report(an annual publication by the United Nations).
 - This project focuses on establishing a relationship between these two datasets(i.e spread of Corona in the country and happiness report) and visualizing it through plots.
 
-#### To Run:
-- Run the python file
-
 #### Required modules(to be preinstalled):
 - Pandas
 - Numpy
